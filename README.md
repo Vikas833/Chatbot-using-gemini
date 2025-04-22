@@ -38,9 +38,10 @@ pip install -r requirements.txt
 ```
 
 3. Set Up API Key
+.
 Create a .env file in the root directory and add your Gemini API key
 
-4. Run the Chatbot
+5. Run the Chatbot
 ```bash
 python simple chatbot.py
 ```
